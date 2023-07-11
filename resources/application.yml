@@ -9,7 +9,7 @@ plugins:
       - "dzisrc:\"%ISRC%\"" # Deezer ISRC provider
       - "scsearch:%QUERY%" # you can add multiple other fallback sources here
     sources:
-      spotify: true # Enable Spotify source
+      spotify: false # Enable Spotify source
       applemusic: true # Enable Apple Music source
       deezer: true # Enable Deezer source
       yandexmusic: true # Enable Yandex Music source

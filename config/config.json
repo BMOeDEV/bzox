@@ -1,6 +1,6 @@
 {
     "TOKEN": "",
-    "NAME": "",
+    "NAME": "Bzox",
     "DEFAULT_PREFIX": ".",
     "MONGODB_URI": "",
     "MICROSERVICES_API": "https://uzox.xyz/api/",
